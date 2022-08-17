@@ -1,11 +1,3 @@
-O(1)
-O(1)
-O(1)
-
+O(nlogn)
 O(n)
-O(logn)
-O(logn)
-O(1)
-O(1)
-O(1)
 O(n)
